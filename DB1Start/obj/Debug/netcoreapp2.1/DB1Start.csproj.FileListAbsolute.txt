@@ -1,0 +1,11 @@
+C:\Users\Fabio\source\repos\DB1Start\DB1Start\bin\Debug\netcoreapp2.1\DB1Start.deps.json
+C:\Users\Fabio\source\repos\DB1Start\DB1Start\bin\Debug\netcoreapp2.1\DB1Start.runtimeconfig.json
+C:\Users\Fabio\source\repos\DB1Start\DB1Start\bin\Debug\netcoreapp2.1\DB1Start.runtimeconfig.dev.json
+C:\Users\Fabio\source\repos\DB1Start\DB1Start\bin\Debug\netcoreapp2.1\DB1Start.dll
+C:\Users\Fabio\source\repos\DB1Start\DB1Start\bin\Debug\netcoreapp2.1\DB1Start.pdb
+C:\Users\Fabio\source\repos\DB1Start\DB1Start\obj\Debug\netcoreapp2.1\DB1Start.csprojAssemblyReference.cache
+C:\Users\Fabio\source\repos\DB1Start\DB1Start\obj\Debug\netcoreapp2.1\DB1Start.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\source\repos\DB1Start\DB1Start\obj\Debug\netcoreapp2.1\DB1Start.AssemblyInfoInputs.cache
+C:\Users\Fabio\source\repos\DB1Start\DB1Start\obj\Debug\netcoreapp2.1\DB1Start.AssemblyInfo.cs
+C:\Users\Fabio\source\repos\DB1Start\DB1Start\obj\Debug\netcoreapp2.1\DB1Start.dll
+C:\Users\Fabio\source\repos\DB1Start\DB1Start\obj\Debug\netcoreapp2.1\DB1Start.pdb
